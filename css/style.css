@@ -14,9 +14,16 @@ h1 {
     width: 100px;
     height: 100px;
     border-radius: 100%;
-    background-color: lightblue;
     margin: 150px auto;
     font-size: 22px;
     font-weight: bold;
-    transition: 1s;
+    transition: 0.5s;
+}
+
+.ball1 {
+    background-color: lightblue;
+}
+
+.ball2 {
+    background-color: aquamarine;
 }
